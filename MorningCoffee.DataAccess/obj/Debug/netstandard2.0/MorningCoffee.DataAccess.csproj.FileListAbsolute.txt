@@ -1,0 +1,14 @@
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\bin\Debug\netstandard2.0\MorningCoffee.DataAccess.deps.json
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\bin\Debug\netstandard2.0\MorningCoffee.DataAccess.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\bin\Debug\netstandard2.0\MorningCoffee.DataAccess.pdb
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\bin\Debug\netstandard2.0\MorningCoffee.Core.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\bin\Debug\netstandard2.0\MorningCoffee.Entities.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\bin\Debug\netstandard2.0\MorningCoffee.Core.pdb
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\bin\Debug\netstandard2.0\MorningCoffee.Entities.pdb
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\obj\Debug\netstandard2.0\MorningCoffee.DataAccess.csprojAssemblyReference.cache
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\obj\Debug\netstandard2.0\MorningCoffee.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\obj\Debug\netstandard2.0\MorningCoffee.DataAccess.AssemblyInfo.cs
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\obj\Debug\netstandard2.0\MorningCoffee.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\obj\Debug\netstandard2.0\MorningCoffee.DataAccess.csproj.CopyComplete
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\obj\Debug\netstandard2.0\MorningCoffee.DataAccess.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.DataAccess\obj\Debug\netstandard2.0\MorningCoffee.DataAccess.pdb

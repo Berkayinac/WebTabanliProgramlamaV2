@@ -1,0 +1,16 @@
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.Core.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.DataAccess.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.Entities.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\obj\Debug\netstandard2.0\MorningCoffee.Business.csprojAssemblyReference.cache
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\obj\Debug\netstandard2.0\MorningCoffee.Business.AssemblyInfoInputs.cache
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\obj\Debug\netstandard2.0\MorningCoffee.Business.AssemblyInfo.cs
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.Business.deps.json
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.Business.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.Business.pdb
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.Core.pdb
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.DataAccess.pdb
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\bin\Debug\netstandard2.0\MorningCoffee.Entities.pdb
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\obj\Debug\netstandard2.0\MorningCoffee.Business.csproj.CoreCompileInputs.cache
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\obj\Debug\netstandard2.0\MorningCoffee.Business.csproj.CopyComplete
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\obj\Debug\netstandard2.0\MorningCoffee.Business.dll
+C:\Users\sun\source\repos\WebTabanliProgramlamaV2\MorningCoffee.Business\obj\Debug\netstandard2.0\MorningCoffee.Business.pdb
